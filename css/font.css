@@ -1,0 +1,72 @@
+﻿
+/*
+███████  ██████  ███    ██ ████████ ███████
+██      ██    ██ ████   ██    ██    ██
+█████   ██    ██ ██ ██  ██    ██    ███████
+██      ██    ██ ██  ██ ██    ██         ██
+██       ██████  ██   ████    ██    ███████
+*/
+
+@font-face {
+  font-family: 'robotobold';
+  src: url("../fonts/roboto/Roboto-Bold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotobolditalic';
+  src: url("../fonts/roboto/Roboto-BoldItalic.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotoitalic';
+  src: url("../fonts/roboto/Roboto-Italic.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotolight';
+  src: url("../fonts/roboto/Roboto-Light.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotolightitalic';
+  src: url("../fonts/roboto/Roboto-LightItalic.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotoregular';
+  src: url("../fonts/roboto/Roboto-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'skyregular';
+  src: url("../fonts/sky/SkyText-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'skymedium';
+  src: url("../fonts/sky/SkyTextMedium-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'skyicons';
+    src: url('../fonts/sky/SkySwitzerland_icon.ttf?v=9');
+    font-weight: normal;
+    font-style: normal;
+}
+
